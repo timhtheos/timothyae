@@ -1,0 +1,19 @@
+title: Timothy Escopete
+url: "https://www.timothyae.com"
+baseurl: ""
+
+markdown: kramdown
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+excerpt_separator: "\n\n"
+permalink: pretty
+
+collections:
+  timothy:
+    output: true
+
+# Alias generator.
+safe: false
