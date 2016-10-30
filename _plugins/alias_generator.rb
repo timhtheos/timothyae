@@ -52,7 +52,7 @@ module Jekyll
     end
 
     def process_timothy
-      @site.timothy.each do |page|
+      @site.timothy.each do |timothy|
         generate_aliases(page.destination('').gsub(/index\.(html|htm)$/, ''), page.data['alias'])
       end
     end
