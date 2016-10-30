@@ -8,9 +8,9 @@ teaser: >
   The previous posts, articles, and pages in this site, have been migrated to the
   new domain name, timothy.sh.
 
-  All previous URL links, in this old domain, to posts, articles, and pages, redirect
-  to the new domain, accordingly, when visited. Robots are however instructed not
-  to follow and index them.
+  All previous URL links, in this old domain, redirect to the new domain,
+  accordingly, when visited. Robots are however instructed not to follow and
+  index them.
 ---
 
 The previous posts, articles, and pages in this site, have been migrated to the
@@ -18,9 +18,9 @@ new domain name, [timothy.sh](https://timothy.sh).
 
 This page, in particular, can be found [here there](https://timothy.sh/welcome-to-jekyll/).
 
-All previous URL links, in this old domain, to posts, articles, and pages, redirect
-to the new domain, accordingly, when visited. Robots are however instructed not
-to follow and index them.
+All previous URL links, in this old domain, redirect to the new domain,
+accordingly, when visited. Robots are however instructed not to follow and index
+them.
 
 ## Original `Welcome to Jekyll!` content.
 
