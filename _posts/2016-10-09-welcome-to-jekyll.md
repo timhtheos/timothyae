@@ -5,15 +5,18 @@ date:   2016-10-30
 categories: jekyll update
 permalink: welcome-to-jekyll
 teaser: >
-  The original Jekyll contents posts and pages of this website has been
-  migrated to the new domain name, timothy.sh.
+  The previous posts, articles, and pages in this site, have been migrated to the
+  new domain name, timothy.sh.
 ---
 
-The original Jekyll contents posts and pages of this website has been
-migrated to the new domain name, [timothy.sh](https://timothy.sh).
+The previous posts, articles, and pages in this site, have been migrated to the
+new domain name, [timothy.sh](https://timothy.sh).
 
 This page, in particular, can be found [here there](https://timothy.sh/welcome-to-jekyll/).
 
+In this domain, all previous links to those posts, articles, and pages redirect
+to the new domain, accordingly, when visited. Robots are however instructed not
+to follow and index them.
 
 ## Original `Welcome to Jekyll!` content.
 
