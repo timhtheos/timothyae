@@ -2,10 +2,10 @@
 <html>
   <head>
     <title>{{ page.title }}</title>
-    <meta http-equiv="refresh" content="0;url={{ page.redirect_to }}/{{ page.permalink }}">
+    <meta http-equiv="refresh" content="0;url={{ site.redirect_to }}/{{ page.permalink }}">
     <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
   </head>
   <body>
-    If the page did not redirect itself, please <a href="{{ page.redirect_to }}/{{ page.permalink }}">click here</a>.
+    If the page did not redirect itself, please <a href="{{ site.redirect_to }}/{{ page.permalink }}">click here</a>.
   </body>
 </html>
