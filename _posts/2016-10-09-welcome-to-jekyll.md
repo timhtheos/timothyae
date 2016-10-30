@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2016-10-09
+date:   2016-10-30
 categories: jekyll update
 permalink: welcome-to-jekyll
 teaser: >
