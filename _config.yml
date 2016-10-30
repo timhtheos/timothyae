@@ -16,7 +16,12 @@ collections:
     output: true
 
 # Alias generator.
-safe: false
+# safe: false
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 # Redirect.
 redirect_to: http://timothy.sh
