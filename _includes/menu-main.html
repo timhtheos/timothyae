@@ -1,10 +1,12 @@
 <div class="navbar container">
   <!-- <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> -->
   <a id="author-name" class="alignable" href="/">{{ site.title }}</a>
+  <!---
   <span
     class="comments_dropdown"
     ng-class="{'show': isActive}"
     ng-click="activeButton()"></span>
+  --->
   <ul class="alignable navbar-ul">
     {% for x in site.data.menu-main %}
       {% if x.name == "Resume" %}
