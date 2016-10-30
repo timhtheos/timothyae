@@ -17,3 +17,6 @@ collections:
 
 # Alias generator.
 safe: false
+
+# Redirect.
+redirect_to: http://timothy.sh
