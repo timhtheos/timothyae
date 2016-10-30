@@ -1,2 +1,5 @@
 - name: "timothy.sh"
   link: "https://timothy.sh"
+
+- name: "Welcome to Jekyll"
+  link: "/welcome-to-jekyll"
